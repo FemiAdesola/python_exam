@@ -1,7 +1,7 @@
 Inputs from user:
-Thief's head start (x): 43.0 km
-Owner's distance traveled (y): 251.0 km
-Thief still ahead by (z): 25.0 km
+Thief's head start (x): 25.0 km
+Owner's distance traveled (y): 35.0 km
+Thief still ahead by (z): 20.0 km
 
 Result:
-Owner will catch the thief after traveling 348.6 km more.
+Owner will catch the thief after traveling 140.0 km more.
